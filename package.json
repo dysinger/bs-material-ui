@@ -16,8 +16,7 @@
     "scripts": {
         "bsb": "bsb -make-world",
         "clean": "bsb -clean-world",
-        "examples": "parcel examples/App/index.html -p 8080",
-        "postinstall": "node copyPlatformBinaryInPlace.js"
+        "examples": "parcel examples/App/index.html -p 8080"
     },
     "devDependencies": {
         "@material-ui/core": "^3.3.2",

@@ -15,7 +15,7 @@
         "in-source": true
     },
     "ppx-flags": [
-        "./ppx_withStyles"
+        "ppx_withStyles"
     ],
     "bs-dependencies": [
         "reason-react"
